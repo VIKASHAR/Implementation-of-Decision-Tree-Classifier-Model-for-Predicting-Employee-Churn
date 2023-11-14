@@ -79,13 +79,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2,1]])
 
 ![280455902-0374428c-44d8-4a2c-a72a-6b3f2d820604](https://github.com/VIKASHAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405655/0a649f5f-81bd-4e0b-90c3-864af5f11364)
 
-![280455929-105592b3-78be-48dc-a29a-65f26ce957e5](https://github.com/VIKASHAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405655/a2822a1d-e8d9-4a42-b760-059254523288)
-
-
 ## Dataset shape:
 
 
 ![280455917-24970a9c-945c-4e0f-aeb2-fbdd4f82a8ee](https://github.com/VIKASHAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405655/6061d3ee-df17-4e5c-bd69-d5e73cd18914)
+
+![280455929-105592b3-78be-48dc-a29a-65f26ce957e5](https://github.com/VIKASHAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405655/a2822a1d-e8d9-4a42-b760-059254523288)
+
 
 ## Y-Pred:
 
